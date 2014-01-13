@@ -3,4 +3,8 @@ CodingMath
 
 This repo will house any applicable files from the Coding Math videos.
 
-http://www.youtube.com/user/codingmath
+Site: http://codingmath.com
+
+YouTube: http://www.youtube.com/user/codingmath
+
+Support: http://www.patreon.com/codingmath
