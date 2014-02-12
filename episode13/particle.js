@@ -5,6 +5,7 @@ var particle = {
 	radius: 0,
 	bounce: -1,
 	friction: 1,
+	gravity: 0,
 
 	create: function(x, y, speed, direction, grav) {
 		var obj = Object.create(this);
