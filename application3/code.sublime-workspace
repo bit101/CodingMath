@@ -1,0 +1,444 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"forceAngle"
+			],
+			[
+				"ra",
+				"rawForce"
+			],
+			[
+				"forc",
+				"forceSpeed"
+			],
+			[
+				"inn",
+				"innerHeight"
+			],
+			[
+				"spl",
+				"splashURL"
+			],
+			[
+				"spri",
+				"springPoint"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"th",
+				"thrusting"
+			],
+			[
+				"tur",
+				"turningLeft"
+			],
+			[
+				"get",
+				"getAngle"
+			],
+			[
+				"cen",
+				"centerY"
+			],
+			[
+				"sp",
+				"speedY"
+			],
+			[
+				"ang",
+				"angleY"
+			],
+			[
+				"paep",
+				"paperCanvas"
+			],
+			[
+				"speed",
+				"speedX"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 2544,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "code.sublime-project",
+			"settings":
+			{
+				"buffer_size": 44,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 115.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 784.0
+	},
+	"console":
+	{
+		"height": 246.0,
+		"history":
+		[
+			"os.path.expanduser(\"~\")",
+			"os.path.expandUser(\"~\")",
+			"os.name",
+			"include os",
+			"import os",
+			"os",
+			"~",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Keith/Documents/CodingMath/Application3/code/index.html",
+		"/C/Users/Keith/Documents/CodingMath/Application3/code/utils.js",
+		"/C/Users/Keith/Documents/CodingMath/Application3/code/main2.js",
+		"/C/Users/Keith/Documents/Sleepwalker/Sleepwalker.sublime-project",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/mini3.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/styles/main.css",
+		"/C/Users/Keith/Documents/CodingMath/Site/index.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode10.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/nav.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/mini2.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/feed.rss2",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/update1.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode9.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/mini1.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/.htaccess",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode1.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode2.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode3.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode4.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode5.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode6.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/qa1.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode7.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/episode8.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/scripts/main.js",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/welcome.html",
+		"/C/Users/Keith/Documents/CodingMath/Site/posts/feed.rss2.xml",
+		"/C/Users/Keith/Documents/CodingMath/Site/Site.sublime-project",
+		"/C/Users/Keith/Documents/Coding Math/Site/Site.sublime-project",
+		"/C/Users/Keith/Documents/Coding Math/Episode 7/code/vector.js",
+		"/C/Users/Keith/Documents/Coding Math/Episode 7/code/vector.bak.js",
+		"/C/Users/Keith/Documents/Coding Math/Episode 6/code/index.html",
+		"/C/Users/Keith/Documents/Coding Math/episode 4/code/code.sublime-project",
+		"/C/Users/Keith/Documents/Coding Math/Episode 4/code/code.js",
+		"/C/Users/Keith/Documents/Coding Math/episode 4/code/trig02.js",
+		"/C/Users/Keith/Documents/Coding Math/Episode 4/code/bees.js",
+		"/C/Users/Keith/Documents/Coding Math/Episode 4/code/text.js",
+		"/C/Users/Keith/Documents/Coding Math/Episode 2/code/episode2.sublime-project",
+		"/C/Users/Keith/Documents/Coding Math/Episode 4/code/episode4.sublime-project",
+		"/C/Users/Keith/Documents/Coding Math/Episode 3/code/index.html",
+		"/C/Users/Keith/Documents/Coding Math/Episode 3/code/trig02.js",
+		"/C/Users/Keith/Documents/Coding Math/title.html",
+		"/C/Users/Keith/Documents/Coding Math/Episode 2/code/trig01.js",
+		"/C/Users/Keith/Documents/Coding Math/Episode 2/code/code.sublime-project",
+		"/C/Users/Keith/Documents/CodingMath/episode1/sample/index.html",
+		"/C/Users/Keith/Documents/CodingMath/episode1/sample/main.js",
+		"/C/Users/Keith/playing-with-curves/code/circle01.html",
+		"/C/Users/Keith/playing-with-curves/code/pinto.js",
+		"/C/Users/Keith/playing-with-curves/code/pinto.html",
+		"/C/Users/Keith/playing-with-curves/code/ellipse.js",
+		"/C/Users/Keith/playing-with-curves/code/ellipse.html",
+		"/C/Users/Keith/playing-with-curves/code/sine.js",
+		"/C/Users/Keith/playing-with-curves/code/sineanim.js",
+		"/C/Users/Keith/playing-with-curves/code/sineanim.html",
+		"/C/Users/Keith/playing-with-curves/code/circle02.js",
+		"/C/Users/Keith/playing-with-curves/code/sine.html",
+		"/C/Users/Keith/playing-with-curves/code/curve.js",
+		"/C/Users/Keith/playing-with-curves/code/circle02.html",
+		"/C/Users/Keith/playing-with-curves/book/pwc_ch00.md",
+		"/C/Users/Keith/playing-with-curves/code/lissajous01.js",
+		"/C/Users/Keith/playing-with-curves/book/pwc_ch01.md",
+		"/C/Users/Keith/playing-with-curves/code/sample.js",
+		"/C/Users/Keith/playing-with-curves/code/circle.html",
+		"/C/Users/Keith/experiments/fourier/scripts/main.js",
+		"/C/Users/Keith/experiments/fourier/scripts/exp.js",
+		"/C/Users/Keith/experiments/fourier/build.xml",
+		"/C/Users/Keith/code/experiments/waves/scripts/main.js",
+		"/C/Users/Keith/AppData/Roaming/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/C/Users/Keith/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 64.0
+	},
+	"find_in_files":
+	{
+		"height": 176.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"();\n",
+			"draw",
+			"_draw",
+			"console",
+			"draw",
+			"_draw",
+			"Object.create(bitobject).extend",
+			"\n		",
+			"header",
+			"http://codingmath.com",
+			"<p><a>",
+			"<br/>",
+			"li",
+			");\n",
+			"50",
+			";\n",
+			"10",
+			"![",
+			"draw",
+			"π",
+			"4 π",
+			"2 π",
+			"PI",
+			"Trigonometry",
+			"chaos",
+			"console",
+			"children",
+			"console",
+			"draw"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"update",
+			"_update",
+			"update",
+			"_update",
+			"bitobject.define",
+			"posts/episode8.html",
+			"<p><a href=\"http://codingmath.com\">",
+			"</p>",
+			"a",
+			"4π",
+			"2π",
+			"π",
+			"curve"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1059,
+								1059
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1266.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "code.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "code.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1000.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Keith\\Documents\\CodingMath\\Episode 12\\code\\code.sublime-project"
+			]
+		],
+		"width": 760.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
