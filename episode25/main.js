@@ -13,10 +13,10 @@ window.onload = function() {
 	points[1] = { x:  500, y: -500, z: 1000 };
 	points[2] = { x:  500, y: -500, z: 500 };
 	points[3] = { x: -500, y: -500, z: 500 };
-	points[0] = { x: -500, y: 500, z: 1000 };
-	points[1] = { x:  500, y: 500, z: 1000 };
-	points[2] = { x:  500, y: 500, z: 500 };
-	points[3] = { x: -500, y: 500, z: 500 };
+	points[4] = { x: -500, y: 500, z: 1000 };
+	points[5] = { x:  500, y: 500, z: 1000 };
+	points[6] = { x:  500, y: 500, z: 500 };
+	points[7] = { x: -500, y: 500, z: 500 };
 
 	function project() {
 		for(var i = 0; i < points.length; i++) {
@@ -32,7 +32,7 @@ window.onload = function() {
 		var p = points[arguments[0]];
 		context.moveTo(p.sx, p.sy);
 
-		for(var i = 1; i < points.length; i++) {
+		for(var i = 1; i < arguments.length; i++) {
 			p = points[arguments[i]];
 			context.lineTo(p.sx, p.sy);
 		}
@@ -62,6 +62,7 @@ window.onload = function() {
 				else {
 					translateModel(0, -20, 0);
 				}
+				break;
 			case 40: // down
 				if(event.shiftKey) {
 					translateModel(0, 0, -20);
@@ -69,6 +70,7 @@ window.onload = function() {
 				else {
 					translateModel(0, 20, 0);
 				}
+				break;
 		}
 	});
 
