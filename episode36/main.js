@@ -30,7 +30,7 @@ window.onload = function() {
 	function updatePoints() {
 		for(var i = 0; i < points.length; i++) {
 			var p = points[i],
-				vx = (p.x - p.oldx) * friction;
+				vx = (p.x - p.oldx) * friction,
 				vy = (p.y - p.oldy) * friction;
 
 			p.oldx = p.x;
