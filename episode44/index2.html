@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript" src="fksystem.js"></script>
+	<script type="text/javascript" src="arm.js"></script>
+	<script type="text/javascript" src="main2.js"></script>
+	<style type="text/css">
+	html, body {
+		margin: 0px;
+	}
+
+	canvas {
+		display: block;
+		position: absolute;
+		top: 00px;
+		left: 0px;
+	}
+
+	.controls {
+		position: absolute;
+		background-color: gray;
+		padding: 20px;
+		z-index: 1;
+		width: 140px;
+		font-family: sans-serif;
+	}
+
+	</style>
+</head>
+<body>
+<canvas id="canvas"></canvas>
+<div class="controls">
+	<h3>top center</h3>
+	<input id="top_center" type="range" min="0" max="3.14" step="0.01"  value="1.57"/>
+	<h3>top range</h3>
+	<input id="top_range" type="range" min="0" max="1.57" step="0.01"  value="0.77"/>
+	<h3>bottom center</h3>
+	<input id="bottom_center" type="range" min="0.87" max="1.5" step="0.01"  value="0.87"/>
+	<h3>bottom range</h3>
+	<input id="bottom_range" type="range" min="0" max="1.5" step="0.01"  value="0.87"/>
+	<h3>bottom phase offset</h3>
+	<input id="bottom_phase" type="range" min="0" max="3" step="0.01"  value="1.5"/>
+</div>
+</body>
+</html>
