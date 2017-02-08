@@ -6,6 +6,7 @@ window.onload = function() {
 		arrowX = width / 2,
 		arrowY = height / 2,
 		dx, dy,
+		mouseX, mouseY,
 		angle = 0,
 		a = 0;
 
@@ -15,6 +16,11 @@ window.onload = function() {
 		arrowX = width / 2 + Math.cos(a) * height * .4;
 		arrowY = height / 2 + Math.sin(a) * height * .4;
 		a += .01;
+
+		dx = mouseX - arrowX;
+		dy = mouseY - arrowY;
+		angle = Math.atan2(dy, dx);
+
 		context.clearRect(0, 0, width, height);
 
 		context.save();
@@ -35,9 +41,8 @@ window.onload = function() {
 	}
 
 	document.body.addEventListener("mousemove", function(event) {
-		dx = event.clientX - arrowX;
-		dy = event.clientY - arrowY;
-		angle = Math.atan2(dy, dx);
+		mouseX = event.clientX;
+		mouseY = event.clientY;
 	});
 
 
